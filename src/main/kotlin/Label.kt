@@ -3,7 +3,7 @@ fun main() {
 //     mengintegrasikan dengan penggunaan break , continue dan return
 //     untuk menjalankan proses (break, continue dan return) di tempat label berada
 
-//   labelBreak()
+   labelBreak()
     labelContinue()
 }
 
@@ -24,7 +24,6 @@ fun labelBreak() {
         }
     }
 }
-
 fun labelContinue() {
     loopI@ for(i in 1..10){
 //        if(i > 5  ) {
